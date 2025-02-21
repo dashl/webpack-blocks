@@ -22,7 +22,6 @@
   },
   "resolutions": {
     "**/**/fstream": "^1.0.12",
-    "**/**/js-yaml": "^3.13.1",
-    "**/node-sass/node-gyp/tar": "^2.2.2"
+    "**/**/js-yaml": "^3.13.1"
   }
 }

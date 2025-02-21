@@ -7,7 +7,7 @@
 module.exports = sass
 
 /**
- * @param {object}   [options]                  See https://github.com/sass/node-sass#options
+ * @param {object}   [options]
  * @param {string[]} [options.sassOptions.includePaths]
  * @param {bool}     [options.sassOptions.indentedSyntax]
  * @param {string}   [options.sassOptions.outputStyle]
